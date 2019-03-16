@@ -19,4 +19,4 @@ project. Make sure that is java is installed and set correctly in your OS.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
