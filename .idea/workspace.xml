@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86b3592-9207-4593-b4e4-bcabdd2d15e4" name="Default" comment="read me updated">
+    <list default="true" id="d86b3592-9207-4593-b4e4-bcabdd2d15e4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/linked-list/LinkedList.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -46,7 +47,7 @@
         </entry>
       </file>
       <file leaf-file-name="LinkedList.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/linked-list/LinkedList.md">
+        <entry file="file://$PROJECT_DIR$/linked-list/src/LinkedList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -149,6 +150,11 @@
               <item name="algorithams-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="linked-list" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithams-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linked-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -171,6 +177,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\intellij\algorithams-and-data-structures\linked-list\src" />
       <recent name="E:\intellij\algorithams-and-data-structures\linked-list" />
     </key>
   </component>
@@ -316,7 +323,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552732193495</updated>
-      <workItem from="1552732225536" duration="19363000" />
+      <workItem from="1552732225536" duration="19481000" />
     </task>
     <task id="LOCAL-00001" summary="linked list add method created.">
       <created>1552740962704</created>
@@ -521,11 +528,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552755042792</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="read me updated">
+      <created>1552755967362</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1552755967362</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19363000" />
+    <option name="totallyTimeSpent" value="19481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -716,6 +730,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/linked-list/LinkedList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -727,7 +752,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked-list/LinkedList.md">
+    <entry file="file://$PROJECT_DIR$/linked-list/src/LinkedList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
