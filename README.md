@@ -23,6 +23,13 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**bigocheatsheet**](http://bigocheatsheet.com/) |  time-complexity visualization. 
  * [**The Technical Interview Cheat Sheet.md**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)  
  
+ 
+# Any books ?
+ * [AlgorithmsBook](https://goalkicker.com/AlgorithmsBook/)
+ * [JavaBook](https://goalkicker.com/JavaBook/)
+ * [GitBook](https://goalkicker.com/GitBook/)
+ 
+ 
 ## How do i plan to do this project ?
  
 I thought of doing `data structures` first then `algorithm's` that are built on this `data structures`. 
