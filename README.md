@@ -8,5 +8,5 @@ out there who is preparing for the `big companies` may provide a little help in 
  * [interview bit](https://www.interviewbit.com/)
 
 ## How to import this project ?
-I had built this project using _intellij_ editor. Anyone having _intellij_ should be able to download and import the 
+I had built this project using _`intellij`_ editor. Anyone having _`intellij`_ should be able to download and import the 
 project. Make sure that is java is installed and set correctly in your OS.
