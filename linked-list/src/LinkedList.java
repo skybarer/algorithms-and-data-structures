@@ -1,6 +1,8 @@
 public class LinkedList {
+
     Node head = null;
 
+    //  to add items in the linked list
     public void add(int data) {
         Node newNode = new Node(data);
         if (head == null) {
@@ -21,6 +23,5 @@ public class LinkedList {
             start = start.next;
         }
     }
-
 
 }

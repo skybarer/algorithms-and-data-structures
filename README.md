@@ -16,6 +16,10 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**howtodoinjava**](https://howtodoinjava.com/)
  * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)
  * [**Algorithm Wiki**](https://thimbleby.gitlab.io/algorithm-wiki-site/)
+ * [**lavivienpost**](https://www.lavivienpost.com/top-interview-questions-and-big-o-notation-cheat-sheets/)
+ * [**wikipedia**](https://en.wikipedia.org/wiki/List_of_data_structures)
+ * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
+ * [**sinon**](https://sinon.org/algorithms//#data-structures)
 
 ## How to import this project ?
 
