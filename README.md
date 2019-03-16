@@ -4,8 +4,10 @@ This core java project is started with the intent of learning `algorithms and da
 out there who is preparing for the `big companies` may provide a little help in the future.
 
 ## List of references for learning and pratice
- * [coding nijas ](https://www.codingninjas.in/)
- * [interview bit](https://www.interviewbit.com/)
+ * [**coding nijas** ](https://www.codingninjas.in/)
+ * [**interviewbit**](https://www.interviewbit.com/)
+ * [**hackerrank**](https://www.hackerrank.com/)
+ * [**topcoder**](https://www.topcoder.com/)
 
 ## How to import this project ?
 I had built this project using _`intellij`_ editor. Anyone having _`intellij`_ should be able to download and import the 
