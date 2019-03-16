@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d86b3592-9207-4593-b4e4-bcabdd2d15e4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/linked-list/LinkedList.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -323,7 +322,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552732193495</updated>
-      <workItem from="1552732225536" duration="19481000" />
+      <workItem from="1552732225536" duration="19504000" />
     </task>
     <task id="LOCAL-00001" summary="linked list add method created.">
       <created>1552740962704</created>
@@ -535,11 +534,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552755967362</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="linked list md moved">
+      <created>1552756094707</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1552756094707</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19481000" />
+    <option name="totallyTimeSpent" value="19504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -657,7 +663,8 @@
     <MESSAGE value="read me details updated." />
     <MESSAGE value="Linked list updated with comments" />
     <MESSAGE value="read me updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="read me updated" />
+    <MESSAGE value="linked list md moved" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked list md moved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
