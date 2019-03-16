@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86b3592-9207-4593-b4e4-bcabdd2d15e4" name="Default" comment="linked list add method created.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linked-list/src/Test.java" afterPath="$PROJECT_DIR$/linked-list/src/Test.java" />
-    </list>
+    <list default="true" id="d86b3592-9207-4593-b4e4-bcabdd2d15e4" name="Default" comment="linked list add method created." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -257,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552732193495</updated>
-      <workItem from="1552732225536" duration="5321000" />
+      <workItem from="1552732225536" duration="5684000" />
     </task>
     <task id="LOCAL-00001" summary="linked list add method created.">
       <created>1552740962704</created>
@@ -270,7 +268,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5321000" />
+    <option name="totallyTimeSpent" value="5684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
