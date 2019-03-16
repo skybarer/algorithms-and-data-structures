@@ -10,6 +10,8 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**interviewbit**](https://www.interviewbit.com/)
  * [**hackerrank**](https://www.hackerrank.com/)
  * [**topcoder**](https://www.topcoder.com/)
+ * [**geeksforgeeks**](https://www.geeksforgeeks.org/)
+ * [**howtodoinjava**](https://howtodoinjava.com/)
 
 ## How to import this project ?
 
