@@ -20,6 +20,7 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**wikipedia**](https://en.wikipedia.org/wiki/List_of_data_structures)
  * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
  * [**sinon**](https://sinon.org/algorithms//#data-structures)
+ * [**bigocheatsheet**](http://bigocheatsheet.com/) |  time-complexity visualization. 
  
 ## How do i plan to do this project ?
  
