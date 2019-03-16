@@ -23,7 +23,7 @@ out there who is preparing for the `big companies` this repository may provide a
  
 ## How do i plan to do this project ?
  
-I first thought of doing `data structures` first then `algorithm's` that are built on this `data structures`. 
+I thought of doing `data structures` first then `algorithm's` that are built on this `data structures`. 
 
 ## How to import this project ?
 
