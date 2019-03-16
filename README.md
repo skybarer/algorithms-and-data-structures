@@ -1,2 +1,2 @@
-# algorithams-and-data-structures
+# Algorithams-and-DataStructures
 Learning algorithms and data-structures.
