@@ -21,10 +21,15 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
  * [**sinon**](https://sinon.org/algorithms//#data-structures)
  * [**bigocheatsheet**](http://bigocheatsheet.com/) |  time-complexity visualization. 
+ * [**The Technical Interview Cheat Sheet.md**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)  
  
 ## How do i plan to do this project ?
  
 I thought of doing `data structures` first then `algorithm's` that are built on this `data structures`. 
+
+## How often do i update this project ?
+
+I am currently not sure about it may be weekend days like (saturday's ,sunday's).
 
 ## How to import this project ?
 
