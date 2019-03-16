@@ -21,7 +21,7 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
  * [**sinon**](https://sinon.org/algorithms//#data-structures)
  
-## How do i plan to this project ?
+## How do i plan to do this project ?
  
 I first thought of doing `data structures` first then `algorithm's` that are built on this `data structures`. 
 
