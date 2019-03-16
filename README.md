@@ -6,7 +6,7 @@ out there who is preparing for the `big companies` this repository may provide a
 
 ## List of references for learning and practice
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
- any copyrights the below links provided.
+ any copyrights the below links provided. I created a empty project and for each project i created a module under it.
 
  * [**coding nijas** ](https://www.codingninjas.in/)
  * [**interviewbit**](https://www.interviewbit.com/)
