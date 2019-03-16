@@ -4,7 +4,9 @@ This core java project is started with the intent of learning `algorithms and da
 `interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope any one 
 out there who is preparing for the `big companies` this repository may provide a little help to them in the future.
 
-## List of references for learning and pratice
+## List of references for learning and practice
+ The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
+ any copyrights the below links provided.
 
  * [**coding nijas** ](https://www.codingninjas.in/)
  * [**interviewbit**](https://www.interviewbit.com/)
@@ -13,6 +15,7 @@ out there who is preparing for the `big companies` this repository may provide a
  * [**geeksforgeeks**](https://www.geeksforgeeks.org/)
  * [**howtodoinjava**](https://howtodoinjava.com/)
  * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)
+ * [**Algorithm Wiki**](https://thimbleby.gitlab.io/algorithm-wiki-site/)
 
 ## How to import this project ?
 
