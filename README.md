@@ -2,7 +2,7 @@
 
 This core java project is started with the intent of learning `algorithms and data-structures` as it provides base for
 `interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope any one 
-out there who is preparing for the `big companies` this repository may provide a little help to them in the future.
+out there who is preparing for the `big companies`, this repository may provide a little help to them in the future.
 
 ## List of references for learning and practicing
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have

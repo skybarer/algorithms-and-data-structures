@@ -8,5 +8,6 @@ public class Test {
         linkedList.add(3);
         linkedList.add(3);
         linkedList.display();
+        System.out.println("\n"+linkedList.size());
     }
 }

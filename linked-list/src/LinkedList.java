@@ -1,9 +1,12 @@
-public class LinkedList {
+class LinkedList {
 
-    Node head = null;
+    private transient int size = 0;
 
-    //  to add items in the linked list
-    public void add(int data) {
+    private Node head = null;
+
+    //  add items in the linked list
+    // time-complexity : O(n)
+    void add(int data) {
         Node newNode = new Node(data);
         if (head == null) {
             head = newNode;
@@ -16,12 +19,27 @@ public class LinkedList {
         currentNode.next = newNode;
     }
 
-    public void display() {
+
+    //  display all items in linked list
+    // time-complexity : O(n)
+    void display() {
         Node start = head;
         while (start != null) {
             System.out.print(start.data + " ");
             start = start.next;
         }
+    }
+
+    //size method in linked list
+    // time-complexity : O(n)
+    int size() {
+        Node start = head;
+        while (start != null) {
+            size++;
+            start = start.next;
+        }
+
+        return size;
     }
 
 }
