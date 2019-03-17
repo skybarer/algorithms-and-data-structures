@@ -1,3 +1,6 @@
+/**
+ *
+ */
 class LinkedList {
 
     private transient int size = 0;
