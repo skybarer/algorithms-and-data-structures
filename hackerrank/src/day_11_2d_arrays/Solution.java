@@ -2,6 +2,8 @@ package day_11_2d_arrays;
 
 import java.util.Scanner;
 
+// https://www.hackerrank.com/challenges/30-2d-arrays/problem
+
 public class Solution {
 
 //            3 7-3 0 1 8
