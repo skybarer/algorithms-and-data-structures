@@ -26,9 +26,9 @@ out there who is preparing for the `big companies` this repository may provide a
  
  
 ## Any books ?
- * [AlgorithmsBook](https://goalkicker.com/AlgorithmsBook/)
- * [JavaBook](https://goalkicker.com/JavaBook/)
- * [GitBook](https://goalkicker.com/GitBook/)
+ * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
+ * [**JavaBook**](https://goalkicker.com/JavaBook/)
+ * [**GitBook**](https://goalkicker.com/GitBook/)
  
  
 ## How do i plan to do this project ?
