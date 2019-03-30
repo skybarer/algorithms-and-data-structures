@@ -33,7 +33,8 @@ out there who is preparing for the `big companies`, this repository may provide 
  
 ## How do i plan to do this project ?
  
-I thought of doing `data structures` first then `algorithm's` that are built on this `data structures`. 
+I thought of doing `data structures` first then `algorithm's` that are built on this `data structures`, but sometimes
+i may randomly do some other things depending on the mood.
 
 ## How often do i update this project ?
 
