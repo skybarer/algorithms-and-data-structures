@@ -7,10 +7,12 @@ package operators;
  */
 public class Modulus {
     public static void main(String[] args) {
-        System.out.println(10 % 11);
-        System.out.println(-10 % 11);
-        System.out.println(11 % 11);
-        System.out.println(11 % 11.232);
+        int x = 32;
+        double y = 36.75;
 
+        System.out.println("x mod 10 = " + x % 10);
+        System.out.println("y mod 10 = " + y % 10);
+
+        System.out.println("17 mod 3 = " + 17 % 3);
     }
 }
