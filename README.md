@@ -50,6 +50,10 @@ project. Make sure that is java is installed and set correctly in your OS.
 I follwed the syntax from this [markdown](https://guides.github.com/features/mastering-markdown/) page. Check this link
 to structure your own readme pages.
 
+## intellij shortcuts?
+
+`CTRL + J` for list of available shortcuts. 
+
 
 ## License
 
