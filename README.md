@@ -52,7 +52,10 @@ to structure your own readme pages.
 
 ## intellij shortcuts?
 
-`CTRL + J` for list of available shortcuts. 
+* `CTRL + J` for list of available shortcuts. 
+* `psvm` public static void main(String[] args) { }
+* `sout` System.out.println()
+
 
 
 ## License
