@@ -5,7 +5,7 @@ package arrays;
  * @date : 30-03-2019
  * @time : 03:22 PM
  */
-public class ContinousSubArrays {
+public class ContinuousSubArrays {
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
@@ -20,7 +20,5 @@ public class ContinousSubArrays {
                 System.out.println();
             }
         }
-
-
     }
 }
