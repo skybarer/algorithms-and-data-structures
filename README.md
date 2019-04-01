@@ -15,20 +15,28 @@ out there who is preparing for the `big companies`, this repository may provide 
  * [**leetcode**](https://leetcode.com)
  * [**geeksforgeeks**](https://www.geeksforgeeks.org/)
  * [**howtodoinjava**](https://howtodoinjava.com/)
- * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)
- * [**Algorithm Wiki**](https://thimbleby.gitlab.io/algorithm-wiki-site/)
- * [**lavivienpost**](https://www.lavivienpost.com/top-interview-questions-and-big-o-notation-cheat-sheets/)
+ * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)| good .
+ * [**Algorithm Wiki**](https://thimbleby.gitlab.io/algorithm-wiki-site/) |good .
+ * [**lavivienpost**](https://www.lavivienpost.com/top-interview-questions-and-big-o-notation-cheat-sheets/) | 
+    interview questions .
  * [**wikipedia**](https://en.wikipedia.org/wiki/List_of_data_structures)
  * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
  * [**sinon**](https://sinon.org/algorithms//#data-structures)
  * [**bigocheatsheet**](http://bigocheatsheet.com/) |  time-complexity visualization. 
  * [**The Technical Interview Cheat Sheet.md**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)  
+ * [**www.cs.auckland.ac.nz**](https://www.cs.auckland.ac.nz/software/AlgAnim/Index.html)  
+ * [**algorithms.tutorialhorizon**](https://algorithms.tutorialhorizon.com/)  
+ * [**nptel**](https://nptel.ac.in/courses/106102064/)  
+ * [**phishman3579**](https://github.com/phishman3579/java-algorithms-implementation)  
+ * [**ashish-chopra**](https://github.com/ashish-chopra/Structures)  
+ * [**stonybrook**](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)  
  
  
 ## Any books ?
  * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
  * [**JavaBook**](https://goalkicker.com/JavaBook/)
  * [**GitBook**](https://goalkicker.com/GitBook/)
+ * [**Cracking the Coding Interview**](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850)
  
  
 ## How do i plan to do this project ?
