@@ -2,7 +2,9 @@
 
 - [x] Basic operations on List
 
-``` java+
+
+
+``` java
   public abstract int size();
   public abstract boolean isEmpty();
   public abstract boolean contains(java.lang.Object);
