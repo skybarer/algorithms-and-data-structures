@@ -43,7 +43,6 @@ class LinkedList {
             size++;
             start = start.next;
         }
-
         return size;
     }
 
