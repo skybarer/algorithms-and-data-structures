@@ -1,5 +1,5 @@
 
-- [X] Collection interface methods in java
+* Collection interface methods in java
 
 ```java
 public interface java.util.Collection<E> extends java.lang.Iterable<E> {
