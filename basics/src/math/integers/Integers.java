@@ -20,5 +20,12 @@ public class Integers {
         // Numeric overflow in expression
         System.out.println(Integer.MIN_VALUE - 1);
         System.out.println(Integer.MAX_VALUE + 1);
+
+
+        // binary representation
+        System.out.println(Integer.toBinaryString(Integer.MAX_VALUE));
+        System.out.println(Integer.toBinaryString(Integer.MIN_VALUE));
+
+
     }
 }
