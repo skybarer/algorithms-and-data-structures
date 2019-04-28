@@ -9,7 +9,7 @@ class LinkedList {
 
     private Node head = null;
 
-    //  add items in the linked list
+    //  add items in the linked list at the end.
     // time-complexity : O(n)
     void add(int data) {
         Node newNode = new Node(data);
