@@ -1,8 +1,8 @@
 # Algorithms and DataStructures
 
 This core java project is started with the intent of learning `algorithms and data-structures` as it provides base for
-`interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope any one 
-out there who is preparing for the `big companies`, this repository may provide a little help to them in the future.
+`interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope anyone 
+out there who is preparing for the `big tech companies`, this repository may provide a little help to them in the future.
 
 ## List of references for learning and practicing
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
@@ -38,6 +38,20 @@ out there who is preparing for the `big companies`, this repository may provide 
  * [**GitBook**](https://goalkicker.com/GitBook/)
  * [**Cracking the Coding Interview**](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850)
  
+ 
+## what i felt important while doing this project ?
+ whatever i do everything seems to be so mathematical. so along with this project i want to improve my
+ math ability. so i started working on the below math areas as well.
+ 
+  * Vedic Math for faster numerical computation
+  * algebra
+  * trigonometry
+  * calculus
+  * graph theory
+  * probability and statics
+  * geometry
+  
+  i know that these things can't be developed quickly, so i try to improve gradually.
  
 ## How do i plan to do this project ?
  
