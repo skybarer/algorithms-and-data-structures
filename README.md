@@ -51,8 +51,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
   * probability and statics
   * geometry
   
-  i know that these things can't be developed quickly, so i try to improve gradually.
- 
+  i know that these things can't be developed quickly, so i try to improve gradually, but at least i can scratch the 
+  basics for my next interview.
+   
 ## How do i plan to do this project ?
  
 I thought of doing `data structures` first then `algorithm's` that are built on this `data structures`, but sometimes
