@@ -18,12 +18,14 @@ public class Test {
         binarySearchTree.insert(3);
         binarySearchTree.insert(6);
 
-        binarySearchTree.fromArrayBST(new int[]{9, 8, 7, 6, 5, 4, 3, 2, 1});
+//        binarySearchTree.fromArrayBST(new int[]{50, 10, 40, 20, 30});
+
+//        binarySearchTree.delete(15);
 
         binarySearchTree.preOrder();
         binarySearchTree.inOrder();
         binarySearchTree.postOrder();
 
-        System.out.println( "key exists or not: " + binarySearchTree.search(1));
+        System.out.println("key exists or not: " + binarySearchTree.search(15));
     }
 }

@@ -8,7 +8,7 @@ This project is started with the intent of learning `algorithms and data-structu
 `interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope anyone 
 out there who is preparing for the `big tech companies`, this repository may provide a little help to them in the future.
 
-## where to practice coding online ?
+##  List of references for practicing
 
 |S.No| Online Coding Sites |
 |-|-|
@@ -19,12 +19,10 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**TopCoder** ](https://www.topcoder.com/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**InterviewBit** ](https://www.interviewbit.com/)|
 
-## List of references for learning and practicing
+## List of references for learning 
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
  any copyrights the below links provided. I created a empty project and for each project i created a module under it.
  
- * [**interviewbit**](https://www.interviewbit.com/)
- * [**topcoder**](https://www.topcoder.com/)
  * [**geeksforgeeks**](https://www.geeksforgeeks.org/)
  * [**howtodoinjava**](https://howtodoinjava.com/)
  * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)| good .

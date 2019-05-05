@@ -96,11 +96,57 @@ public class BinarySearchTree {
         return false;
     }
 
+    private int findSmallestValue(Node root) {
+        return root.lChild == null ? root.data : findSmallestValue(root.lChild);
+    }
+
+    private Node deleteRecursive(Node current, int data) {
+
+        if (current == null) {
+            return null;
+        }
+
+        if (data == current.data) {
+            // Case 1: no children
+            if (current.lChild == null && current.rChild == null) {
+                return null;
+            }
+
+            // Case 2: only 1 child
+            if (current.rChild == null) {
+                return current.lChild;
+            }
+
+            if (current.lChild == null) {
+                return current.rChild;
+            }
+
+            // Case 3: 2 children
+            int smallestValue = findSmallestValue(current.rChild);
+            current.data = smallestValue;
+            current.rChild = deleteRecursive(current.rChild, smallestValue);
+            return current;
+        }
+        if (data < current.data) {
+            current.lChild = deleteRecursive(current.lChild, data);
+            return current;
+        }
+
+        current.rChild = deleteRecursive(current.rChild, data);
+        return current;
+
+    }
+
     // deleting the element from BST
     public void delete(int data) {
-        Node parent = null;
         Node current = root;
+        deleteRecursive(current, data);
 
+    }
+
+
+    public boolean isEmpty() {
+        return root == null;
     }
 
 
