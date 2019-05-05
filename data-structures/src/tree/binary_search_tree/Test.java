@@ -23,5 +23,7 @@ public class Test {
         binarySearchTree.preOrder();
         binarySearchTree.inOrder();
         binarySearchTree.postOrder();
+
+        System.out.println( "key exists or not: " + binarySearchTree.search(1));
     }
 }

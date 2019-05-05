@@ -13,7 +13,7 @@ public class BinarySearchTree {
     private Node recursiveInsert(Node current, int data) {
         if (current == null) return new Node(data);
         if (data < current.data) current.lChild = recursiveInsert(current.lChild, data);
-        else if(data > current.data) current.rChild = recursiveInsert(current.rChild, data);
+        else if (data > current.data) current.rChild = recursiveInsert(current.rChild, data);
         return current;
     }
 
@@ -84,4 +84,24 @@ public class BinarySearchTree {
             root = recursiveInsert(root, bstArray[i]);
         }
     }
+
+    // search a element exists or not
+    public boolean search(int data) {
+        Node current = root;
+        while (current != null) {
+            if (data == current.data) return true;
+            if (data < current.data) current = current.lChild;
+            else if (data > current.data) current = current.rChild;
+        }
+        return false;
+    }
+
+    // deleting the element from BST
+    public void delete(int data) {
+        Node parent = null;
+        Node current = root;
+
+    }
+
+
 }

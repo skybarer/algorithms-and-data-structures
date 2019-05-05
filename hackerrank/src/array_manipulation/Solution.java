@@ -6,13 +6,10 @@ package array_manipulation;
  * @time : 09:16 AM
  */
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+// https://www.hackerrank.com/challenges/crush/problem
+
+import java.io.IOException;
+import java.util.Scanner;
 
 public class Solution {
 
@@ -21,19 +18,34 @@ public class Solution {
     // Complete the arrayManipulation function below.
     static long arrayManipulation(int n, int[][] queries) {
 
-        long[] arr = new long[n];
+        // initialize array with 0's of size n
+        long arr[] = new long[n];
+
+        // each successive element contains the difference between itself and previous element
+
         for (int i = 0; i < queries.length; i++) {
-            for (int k = queries[i][0] - 1; k < queries[i][1]; k++) {
-                arr[k] += queries[i][2];
+        // when checking query, subtract 1 from both a and b since 0 indexed array
+            int a = queries[i][0] - 1;
+            int b = queries[i][1] - 1;
+            int k = queries[i][2];
+
+            arr[a] += k;
+            if (b + 1 < n) {
+                arr[b + 1] -= k;
             }
         }
-        Arrays.sort(arr);
-        return arr[arr.length - 1];
+
+        // track highest val seen so far as we go
+        long max = Long.MIN_VALUE;
+        for (int i = 1; i < arr.length; i++) {
+            arr[i] += arr[i - 1];
+            max = Math.max(arr[i], max);
+        }
+
+        return max;
     }
 
     public static void main(String[] args) throws IOException {
-
-        BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(System.out));
 
         String[] nm = scanner.nextLine().split(" ");
 
@@ -52,31 +64,16 @@ public class Solution {
                 queries[i][j] = queriesItem;
             }
         }
-        TimeCalculator.startTime();
-        long result = arrayManipulation(n, queries);
-        TimeCalculator.endTime();
-        bufferedWriter.write(String.valueOf(result));
-        bufferedWriter.newLine();
 
-        bufferedWriter.close();
+
+        long result = arrayManipulation(n, queries);
+
+        System.out.println(String.valueOf(result));
+
 
         scanner.close();
-
     }
 }
 
-class TimeCalculator {
-    static long startTime = 0;
-    static long endTime = 0;
 
-    public static void startTime() {
-        startTime = System.nanoTime();
-    }
-
-    public static void endTime() {
-        endTime = System.nanoTime();
-        long totalTime = endTime - startTime;
-        System.out.println("Total Time: " + totalTime / 1_000_000_000.0 + " sec");
-    }
-}
 
