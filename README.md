@@ -12,29 +12,29 @@ out there who is preparing for the `big tech companies`, this repository may pro
 
 <table align="center">
     <tr>
-        <td>&nbsp;&nbsp;
+        <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
         <td><a href="https://www.hackerrank.com/" rel="nofollow"><strong>Hackerrank</strong></a></td>
-        <td>&nbsp;&nbsp;
+        <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
         <td><a href="https://www.hackerearth.com/" rel="nofollow"><strong>Hackerearth</strong></a></td>
-        <td>&nbsp;&nbsp;
+        <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
         <td><a href="https://www.codingninjas.in/" rel="nofollow"><strong>CodingNinjas</strong> </a></td>
-        <td>&nbsp;&nbsp;
+        <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
         <td><a href="https://www.interviewbit.com/" rel="nofollow"><strong>InterviewBit</strong> </a></td>
     </tr>
     <tr>
-        <td>&nbsp;&nbsp;
+        <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
         <td><a href="https://leetcode.com/" rel="nofollow"><strong>LeetCode</strong> </a></td>
-        <td>&nbsp;&nbsp;
+        <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
         <td><a href="https://www.topcoder.com/" rel="nofollow"><strong>TopCoder</strong> </a></td>
