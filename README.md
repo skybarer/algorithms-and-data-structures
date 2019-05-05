@@ -10,12 +10,36 @@ out there who is preparing for the `big tech companies`, this repository may pro
 
 ## where to practice coding online ?
 
-|#| Online Coding Sites|#| Online Coding Sites|#| Online Coding Sites|#|Online Coding Sites|
-|-|-|-|-|-|-|-|-|
-|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Hackerrank**](https://www.hackerrank.com/)|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Hackerearth**](https://www.hackerearth.com/)|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**CodingNinjas** ](https://www.codingninjas.in/)|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**InterviewBit** ](https://www.interviewbit.com/)
-|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**LeetCode** ](https://leetcode.com/)|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**TopCoder** ](https://www.topcoder.com/)
-
-
+<table align="center">
+    <tr>
+        <td>&nbsp;&nbsp;
+            <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
+        </td>
+        <td><a href="https://www.hackerrank.com/" rel="nofollow"><strong>Hackerrank</strong></a></td>
+        <td>&nbsp;&nbsp;
+            <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
+        </td>
+        <td><a href="https://www.hackerearth.com/" rel="nofollow"><strong>Hackerearth</strong></a></td>
+        <td>&nbsp;&nbsp;
+            <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
+        </td>
+        <td><a href="https://www.codingninjas.in/" rel="nofollow"><strong>CodingNinjas</strong> </a></td>
+        <td>&nbsp;&nbsp;
+            <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
+        </td>
+        <td><a href="https://www.interviewbit.com/" rel="nofollow"><strong>InterviewBit</strong> </a></td>
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;
+            <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
+        </td>
+        <td><a href="https://leetcode.com/" rel="nofollow"><strong>LeetCode</strong> </a></td>
+        <td>&nbsp;&nbsp;
+            <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
+        </td>
+        <td><a href="https://www.topcoder.com/" rel="nofollow"><strong>TopCoder</strong> </a></td>
+    </tr>
+</table>
 
 ## List of references for learning and practicing
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
