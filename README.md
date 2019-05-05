@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/logo.png?raw=true">
+<img width="250" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/logo.png?raw=true">
 </p>
 <h1 align="center"> Algorithms and DataStructures</h1>
 
-This core java project is started with the intent of learning `algorithms and data-structures` as it provides base for
+This project is started with the intent of learning `algorithms and data-structures` as it provides base for
 `interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope anyone 
 out there who is preparing for the `big tech companies`, this repository may provide a little help to them in the future.
 
