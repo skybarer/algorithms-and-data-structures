@@ -9,23 +9,21 @@ This project is started with the intent of learning `algorithms and data-structu
 out there who is preparing for the `big tech companies`, this repository may provide a little help to them in the future.
 
 ## where to practice coding online ?
+
 |S.No| Online Coding Sites |
 |-|-|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Hackerrank**](https://www.hackerrank.com/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Hackerearth**](https://www.hackerearth.com/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**CodingNinjas** ](https://www.codingninjas.in/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**LeetCode** ](https://leetcode.com/)|
-
+|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**TopCoder** ](https://www.topcoder.com/)|
+|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**InterviewBit** ](https://www.interviewbit.com/)|
 
 ## List of references for learning and practicing
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
  any copyrights the below links provided. I created a empty project and for each project i created a module under it.
  
- * [**coding nijas** ](https://www.codingninjas.in/)
  * [**interviewbit**](https://www.interviewbit.com/)
- * [**hackerrank**](https://www.hackerrank.com/)
- * [**topcoder**](https://www.topcoder.com/)
- * [**leetcode**](https://leetcode.com)
  * [**geeksforgeeks**](https://www.geeksforgeeks.org/)
  * [**howtodoinjava**](https://howtodoinjava.com/)
  * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)| good .
