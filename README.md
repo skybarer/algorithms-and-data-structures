@@ -37,6 +37,10 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**JavaBook**](https://goalkicker.com/JavaBook/)
  * [**GitBook**](https://goalkicker.com/GitBook/)
  * [**Cracking the Coding Interview**](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850)
+ * [**tech-interview-handbook by yangshun**](https://github.com/yangshun/tech-interview-handbook/)  | very good
+ * [**interview by Kevin Naughton Jr.**](https://github.com/kdn251/interviews)  | very good
+
+
  
  
 ## what i felt important while doing this project ?
