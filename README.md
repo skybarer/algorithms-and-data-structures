@@ -31,9 +31,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
          <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
          </td>
+           <td><a href="https://leetcode.com/" rel="nofollow"><strong>LeetCode</strong> </a></td>
     </tr>
     <tr>
-        <td><a href="https://leetcode.com/" rel="nofollow"><strong>LeetCode</strong> </a></td>
         <td>
             <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true"><img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true" style="max-width:100%;"></a>
         </td>
