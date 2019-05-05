@@ -1,4 +1,8 @@
-# Algorithms and DataStructures
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/logo.png?raw=true">
+</p>
+<h1 align="center"> Algorithms and DataStructures</h1>
 
 This core java project is started with the intent of learning `algorithms and data-structures` as it provides base for
 `interview preparation`. Anyone is free to add additional  `data structures` and improvise the content. I hope anyone 
@@ -7,7 +11,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
 ## List of references for learning and practicing
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
  any copyrights the below links provided. I created a empty project and for each project i created a module under it.
-
+ 
  * [**coding nijas** ](https://www.codingninjas.in/)
  * [**interviewbit**](https://www.interviewbit.com/)
  * [**hackerrank**](https://www.hackerrank.com/)
@@ -41,7 +45,6 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**interview by Kevin Naughton Jr.**](https://github.com/kdn251/interviews)  | very good
 
 
- 
  
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
