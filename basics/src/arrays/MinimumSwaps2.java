@@ -18,12 +18,12 @@ public class MinimumSwaps2 {
 
     // Complete the minimumSwaps function below.
     static int minimumSwaps(int[] arr) {
-        int minimumSwaps = 0;
+//        int minimumSwaps = 0;
         int n = arr.length;
 
         // merge sort technique for swapping
-        int mid = n / 2;
-        int pivot = arr[mid];
+//        int mid = n / 2;
+//        int pivot = arr[mid];
 
 
         return (int) (Math.log(n));

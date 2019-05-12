@@ -83,8 +83,12 @@ project. Make sure that is java is installed and set correctly in your OS.
 
 ## How do i created this readme page ?
 
-I follwed the syntax from this [markdown](https://guides.github.com/features/mastering-markdown/) page. Check this link
+I followed the syntax from this [markdown](https://guides.github.com/features/mastering-markdown/) page. Check this link
 to structure your own readme pages.
+
+## How to check my markdown ?
+
+online markdown editors are available [click here](https://jbt.github.io/markdown-editor/) to go to a online markdown editor.
 
 ## intellij shortcuts?
 

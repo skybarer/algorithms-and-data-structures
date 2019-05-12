@@ -11,7 +11,11 @@ public class If {
         int b = 1;
         boolean a;
 //  not printed
-        if (a = false) System.out.println("If statement without assigning inside parenthesis ");
+        if (a = false) System.out.println("a = false");
+        if (a = true) System.out.println("a = true");
+        if(!false) System.out.println("!false");
+        if(!true) System.out.println("!true");
         if ("123".equals(String.valueOf(123))) System.out.println("condition is executed.");
+
     }
 }
