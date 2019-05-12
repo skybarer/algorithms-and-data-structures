@@ -1,4 +1,4 @@
-package heaps.min_heap;
+package heap.min_heap;
 
 /**
  * @author : akashdhar

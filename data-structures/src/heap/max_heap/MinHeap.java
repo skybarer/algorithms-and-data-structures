@@ -1,4 +1,4 @@
-package heaps.max_heap;
+package heap.max_heap;
 
 /**
  * @author : akashdhar
