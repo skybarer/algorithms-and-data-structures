@@ -1,6 +1,4 @@
 
-# Data Structures
-
 ## Contents
 
 |S.No| Topic |
