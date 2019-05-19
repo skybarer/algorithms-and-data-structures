@@ -6,4 +6,13 @@ package heap.max_heap;
  * @time : 08:26 PM
  */
 public class MinHeap {
+
+
+    public void insert(int H[], int n) {
+
+    }
+
+    public void remove(int H[], int n) {
+
+    }
 }

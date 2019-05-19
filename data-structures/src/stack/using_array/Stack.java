@@ -30,7 +30,7 @@ public class Stack {
 
     // to remove an element from stack
     public int pop() {
-        pointer --;
+        pointer--;
         if (pointer < 0) try {
             throw new Exception("No elements to pop");
         } catch (Exception e) {
@@ -44,7 +44,7 @@ public class Stack {
 
     public void display() {
         for (int i = 0; i < pointer; i++) {
-            if (i == pointer-1)
+            if (i == pointer - 1)
                 System.out.printf("%d\n", array[i]);
             else
                 System.out.printf("%d ", array[i]);
