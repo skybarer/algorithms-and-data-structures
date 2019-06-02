@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @time : 08:51 AM
  */
 
-//Merge Sort is the fastest stable sorting algorithm with worst-case complexity of O(nlogn), but it requires extra space.
+// Merge Sort is the fastest stable sorting algorithm with worst-case complexity of O(n log n), but it requires extra space.
 
 public class MergeSort {
 

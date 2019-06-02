@@ -10,7 +10,7 @@ public class SwappingWithoutTemp {
     public static void main(String[] args) {
         int a = 20, b = 10;
 
-        //before swaping
+        //before swap
         System.out.println("Before Swapping the values of a and b are: a = " + a + ", b = " + b);
 
         //swapping
@@ -18,7 +18,7 @@ public class SwappingWithoutTemp {
         b = a - b;
         a = a - b;
 
-        //after swapping
+        //after swap
         System.out.println("After Swapping the values of a and b are: a = " + a + ", b = " + b);
     }
 }

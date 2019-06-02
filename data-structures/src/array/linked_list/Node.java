@@ -1,4 +1,4 @@
-package list.linked_list;
+package array.linked_list;
 
 public class Node {
 
