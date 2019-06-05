@@ -40,6 +40,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**phishman3579**](https://github.com/phishman3579/java-algorithms-implementation)  
  * [**ashish-chopra**](https://github.com/ashish-chopra/Structures)  
  * [**stonybrook**](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)  
+ * [**techiedelight**](https://www.techiedelight.com/)  
  
  
 ## Any books ?

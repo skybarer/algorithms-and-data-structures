@@ -21,24 +21,17 @@ public class MergeSort {
 
         while (i < nl && j < nr) {
             if (left[i] <= right[j]) {
-                arr[k] = left[i];
-                i++;
+                arr[k++] = left[i++];
             } else {
-                arr[k] = right[j];
-                j++;
+                arr[k++] = right[j++];
             }
-            k++;
         }
 
         while (i < nl) {
-            arr[k] = left[i];
-            i++;
-            k++;
+            arr[k++] = left[i++];
         }
         while (j < nr) {
-            arr[k] = right[j];
-            j++;
-            k++;
+            arr[k++] = right[j++];
         }
 
     }
