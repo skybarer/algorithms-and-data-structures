@@ -41,6 +41,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**ashish-chopra**](https://github.com/ashish-chopra/Structures)  
  * [**stonybrook**](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)  
  * [**techiedelight**](https://www.techiedelight.com/)  
+ * [**cslibrary.stanford.edu**](http://cslibrary.stanford.edu/)  
  
  
 ## Any books ?
