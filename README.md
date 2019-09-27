@@ -41,23 +41,32 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**techiedelight**](https://www.techiedelight.com/)  
  * [**cslibrary.stanford.edu**](http://cslibrary.stanford.edu/)  
 
-
 ## Git Channels
  * [**phishman3579**](https://github.com/phishman3579/java-algorithms-implementation)  
+ * [**RodneyShag**](https://github.com/RodneyShag/Interview_solutions)
+ * [**tech-interview-handbook by yangshun**](https://github.com/yangshun/tech-interview-handbook/)  | very good
+ * [**interview by Kevin Naughton Jr.**](https://github.com/kdn251/interviews)  | very good
  
-## Books 
+## Book's 
  * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
  * [**JavaBook**](https://goalkicker.com/JavaBook/)
  * [**GitBook**](https://goalkicker.com/GitBook/)
  * [**Cracking the Coding Interview**](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850)
- * [**tech-interview-handbook by yangshun**](https://github.com/yangshun/tech-interview-handbook/)  | very good
- * [**interview by Kevin Naughton Jr.**](https://github.com/kdn251/interviews)  | very good
+ 
 
-## Best Youtube Channels
+## Youtube Channels
  * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
  * [**tusharroy2525**](https://www.youtube.com/user/tusharroy2525/playlists)
  * [**Vivekanand Khyade**](https://www.youtube.com/channel/UCx-kFfzekMbhODaBss-ZnsA)
  * [**CS Dojo**](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/playlists)
+ 
+ ## Blog's
+ * [**14 patterns to ace interview**]( https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+ 
+ 
+ # Interview Tips
+  * [**codespaghetti**](http://www.codespaghetti.com/interview-success/)
+
  
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
