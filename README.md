@@ -19,7 +19,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**TopCoder** ](https://www.topcoder.com/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**InterviewBit** ](https://www.interviewbit.com/)|
 
-## List of references for learning 
+## Websites  
  The references provided here are my opinion and they may or may not be the right option for you, and also i don't have
  any copyrights the below links provided. I created a empty project and for each project i created a module under it.
  
@@ -36,14 +36,16 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**www.cs.auckland.ac.nz**](https://www.cs.auckland.ac.nz/software/AlgAnim/Index.html)  
  * [**algorithms.tutorialhorizon**](https://algorithms.tutorialhorizon.com/)  
  * [**nptel**](https://nptel.ac.in/courses/106102064/)  
- * [**phishman3579**](https://github.com/phishman3579/java-algorithms-implementation)  
  * [**ashish-chopra**](https://github.com/ashish-chopra/Structures)  
  * [**stonybrook**](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)  
  * [**techiedelight**](https://www.techiedelight.com/)  
  * [**cslibrary.stanford.edu**](http://cslibrary.stanford.edu/)  
+
+
+## Git Channels
+ * [**phishman3579**](https://github.com/phishman3579/java-algorithms-implementation)  
  
- 
-## Any books ?
+## Books 
  * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
  * [**JavaBook**](https://goalkicker.com/JavaBook/)
  * [**GitBook**](https://goalkicker.com/GitBook/)
