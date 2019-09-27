@@ -9,7 +9,7 @@ public class CircularQueueImplementation {
 
     public static void main(String[] args) {
 
-        Queue<Integer> circularQueue = new Queue(8);
+        Queue<Integer> circularQueue = new Queue<>(8);
 
         circularQueue.enqueue(15);
         circularQueue.enqueue(16);

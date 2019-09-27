@@ -23,7 +23,7 @@ public class ArrayDecleration {
         arr2[2] = 3;
         System.out.println("arr2" + arr2[2]);
 
-        int[] intArray = new int[]{ 1,2,3,4,5,6,7,8,9,10 };
+        int[] intArray = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         // Declaring array literal
     }
 }

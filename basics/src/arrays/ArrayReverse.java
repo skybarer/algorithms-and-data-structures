@@ -23,6 +23,8 @@ public class ArrayReverse {
         for (int k = 0; k < arr.length; k++) {
             arr[k] = arrAuxilary[k];
         }
+
+        //   System.arraycopy(arrAuxilary, 0, arr, 0, arr.length);
         // printing the elements tot the console
         System.out.println(Arrays.toString(arr));
 

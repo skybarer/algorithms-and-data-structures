@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author : akashdhar
  * @date : 13-04-2019
@@ -17,6 +20,7 @@ class access {
 public class Test {
 
     public static long getIdealNums(long l, long r) {
+
         // Write your code here
         long expoSum = 0;
         long count = 0;
