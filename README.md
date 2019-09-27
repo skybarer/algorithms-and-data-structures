@@ -30,7 +30,6 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**lavivienpost**](https://www.lavivienpost.com/top-interview-questions-and-big-o-notation-cheat-sheets/) | 
     interview questions .
  * [**wikipedia**](https://en.wikipedia.org/wiki/List_of_data_structures)
- * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
  * [**sinon**](https://sinon.org/algorithms//#data-structures)
  * [**bigocheatsheet**](http://bigocheatsheet.com/) |  time-complexity visualization. 
  * [**The Technical Interview Cheat Sheet.md**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)  
@@ -52,7 +51,11 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**tech-interview-handbook by yangshun**](https://github.com/yangshun/tech-interview-handbook/)  | very good
  * [**interview by Kevin Naughton Jr.**](https://github.com/kdn251/interviews)  | very good
 
-
+## Best Youtube Channels
+ * [**mycodeschool**](https://www.youtube.com/user/mycodeschool)
+ * [**tusharroy2525**](https://www.youtube.com/user/tusharroy2525/playlists)
+ * [**Vivekanand Khyade**](https://www.youtube.com/channel/UCx-kFfzekMbhODaBss-ZnsA)
+ * [**CS Dojo**](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/playlists)
  
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
