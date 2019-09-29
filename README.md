@@ -73,13 +73,15 @@ out there who is preparing for the `big tech companies`, this repository may pro
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
  math ability. so i started working on the below math areas as well.
  
-  * Vedic Math for faster numerical computation
-  * algebra
-  * trigonometry
-  * calculus
-  * graph theory
-  * probability and statics
-  * geometry
+ |Item| Subject | 
+ |-|-|
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Vedic Math for faster numerical computation
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| algebra
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| trigonometry
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| calculus
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| graph theory
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| probability and statics
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| geometry
   
   i know that these things can't be developed quickly, so i try to improve gradually, but at least i can scratch the 
   basics for my next interview.
