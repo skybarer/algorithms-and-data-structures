@@ -9,7 +9,7 @@ import java.util.List;
  * @date : 13-04-2019
  * @time : 12:37 PM
  */
-public class Solution {
+public class Fibonacci {
 
 
     public static List<BigInteger> fibnocaii(long n) {
