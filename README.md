@@ -74,14 +74,14 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |-|-|
 |1|Array|
 |2|Linked List|
-|3|Stacks|
-|4|Queues|
+|3|Stack|
+|4|Queue|
 |5|Tree|
 |6|Trie|
 |7|Graph|
-|8|Hash-Tables|
+|8|Hash-Table|
 |9|String|
-|10|Heaps|
+|10|Heap|
  
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
