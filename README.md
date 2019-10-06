@@ -73,15 +73,15 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |#| Data Structures | 
 |-|-|
 |1|Array|
-|2|linkedlists|
-|3|stacks|
-|4|queues|
-|5|tree|
-|6|tries|
-|7|graphs|
-|8|hash-tables|
-|9|string|
-|10|heaps|
+|2|Linked List|
+|3|Stacks|
+|4|Queues|
+|5|Tree|
+|6|Trie|
+|7|Graph|
+|8|Hash-Tables|
+|9|String|
+|10|Heaps|
  
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
