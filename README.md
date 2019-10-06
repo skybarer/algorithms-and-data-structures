@@ -61,13 +61,27 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**Vivekanand Khyade**](https://www.youtube.com/channel/UCx-kFfzekMbhODaBss-ZnsA)
  * [**CS Dojo**](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/playlists)
  
- ## Blog's
+## Blog's
  * [**14 patterns to ace interview**]( https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
  
  
- # Interview Tips
-  * [**codespaghetti**](http://www.codespaghetti.com/interview-success/)
+## Interview Tips
+ * [**codespaghetti**](http://www.codespaghetti.com/interview-success/)
 
+## Data Structure List
+
+|#| Data Structures | 
+|-|-|
+|1|Array|
+|2|linkedlists|
+|3|stacks|
+|4|queues|
+|5|tree|
+|6|tries|
+|7|graphs|
+|8|hash-tables|
+|9|string|
+|10|heaps|
  
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
