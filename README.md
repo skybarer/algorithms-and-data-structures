@@ -82,7 +82,8 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |8|Hash-Table|
 |9|String|
 |10|Heap|
- 
+|11|B-tree and B+ tree|
+
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
  math ability. so i started working on the below math areas as well.
