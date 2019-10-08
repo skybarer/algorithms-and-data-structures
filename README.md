@@ -85,11 +85,11 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |11|Run Length Encoding |
 |12|LZW compression|
 |13|Huffman Encoding|
-|14|manber myers|
-|15|backtracking|
+|14|Manber Myers|
+|15|Backtracking|
 |16|greedy|
 |17|Dynamic programming|
-|18|divide and concur |
+|18|Divide and Concur |
 |19|Boyer-Moore search|
 |20|Rabin-Karp |
 |21|Manacher's |
@@ -106,9 +106,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |32|Ford-Fulkerson|
 |33|Fenwick Tree|
 |34|Segment Tree|
-|35|prefix Tree|
+|35|Prefix Tree|
 |36|Suffix Tree|
-|37|master thereom|
+|37|Master thereom|
 |38|Jarvis-March|
 
 
