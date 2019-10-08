@@ -68,7 +68,51 @@ out there who is preparing for the `big tech companies`, this repository may pro
 ## Interview Tips
  * [**codespaghetti**](http://www.codespaghetti.com/interview-success/)
 
-## Data Structure List
+## Algorithms
+
+|#| Algorithm | 
+|-|-|
+|1|Window Sliding Technique|
+|2|Kaden's Algorithm.|
+|3|Knuth–Morris–Pratt |
+|4|Monte Carlo method|
+|5|Markov chain|
+|6|Bellman Ford Algorithm|
+|7|dijkstra algorithm|
+|8|Floyd-Warshall|
+|9|Naive-Pattern-Searching|
+|10|The JPEG compression|
+|11|Run Length Encoding |
+|12|LZW compression|
+|13|Huffman Encoding|
+|14|manber myers|
+|15|backtracking|
+|16|greedy|
+|17|Dynamic programming|
+|18|divide and concur |
+|19|Boyer-Moore search|
+|20|Rabin-Karp |
+|21|Manacher's |
+|22|Flood-fill|
+|23|Z Algorithm|
+|24|Bellman–Ford|
+|25|Dijkstra's|
+|26|Ford–Fulkerson|
+|27|Kruskal's|
+|28|Nearest neighbour|
+|29|Prim's algorithm|
+|30|Depth-first search|
+|31|Breadth-first search|
+|32|Ford-Fulkerson|
+|33|Fenwick Tree|
+|34|Segment Tree|
+|35|prefix Tree|
+|36|Suffix Tree|
+|37|master thereom|
+|38|Jarvis-March|
+
+
+## Data Structure 
 
 |#| Data Structures | 
 |-|-|
