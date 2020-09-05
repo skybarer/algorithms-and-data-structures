@@ -128,6 +128,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |10|Heap|
 |11|B-tree and B+ tree|
 
+
+## Design Patterns 
+
 |#| Design Pattern | 
 |-|-|
 |1|UML|
