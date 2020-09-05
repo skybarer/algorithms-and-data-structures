@@ -128,6 +128,40 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |10|Heap|
 |11|B-tree and B+ tree|
 
+|#| Design Pattern | 
+|-|-|
+|1|UML|
+|2|Creational Design Patterns|
+|3|Factory Method|
+|4|Abstract Factory Method|
+|5|Singleton|
+|6|Builder|
+|7|Prototype|
+|8|Structural Design Patterns|
+|9|Adapter|
+|10|Bridge|
+|11|Composite|
+|12|Decorator|
+|13|Facade|
+|14|Flyweight|
+|15|Proxy|
+|16|Structural Patterns Summary|
+|17|Behavioral Design Patterns|
+|18|Chain of Responsibility|
+|19|Command|
+|20|Interpreter|
+|21|Iterator|
+|22|Mediator|
+|23|Memento|
+|24|Observer|
+|25|State|
+|26|Strategy|
+|27|Template Method|
+|28|Visitor|
+|29|MVC - Model View Controller|
+|30|J2EE Patterns|
+
+
 ## what i felt important while doing this project ?
  whatever i do everything seems to be so mathematical. so along with this project i want to improve my
  math ability. so i started working on the below math areas as well.
