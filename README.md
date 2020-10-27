@@ -12,8 +12,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
 
 |Item| Online Coding Sites | 
 |-|-|
+|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Japanese Online Judge**](http://judge.u-aizu.ac.jp/onlinejudge/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Hackerrank**](https://www.hackerrank.com/)|
-|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**Hackerearth**](https://www.hackerearth.com/)|
+|&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**HackerEarth**](https://www.hackerearth.com/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**CodingNinjas** ](https://www.codingninjas.in/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**LeetCode** ](https://leetcode.com/)|
 |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">|[**TopCoder** ](https://www.topcoder.com/)|
