@@ -49,6 +49,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**RodneyShag**](https://github.com/RodneyShag/Interview_solutions)
  * [**tech-interview-handbook by yangshun**](https://github.com/yangshun/tech-interview-handbook/)  | very good
  * [**interview by Kevin Naughton Jr.**](https://github.com/kdn251/interviews)  | very good
+ * [**Awesome Competitive Programming **](https://github.com/lnishan/awesome-competitive-programming)  | very good
  
 ## Book's 
  * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
