@@ -11,7 +11,7 @@ public class ASCII {
         System.out.println("character size in java: " + (byte) 'a');
 
         for (int i = 0; i < 256; i++) {
-            System.out.printf("%d = %c =%s \n", i, (char) i, Integer.toBinaryString(i));
+            System.out.printf("%d = %c -> %s \n", i, (char) i, Integer.toBinaryString(i));
         }
     }
 }

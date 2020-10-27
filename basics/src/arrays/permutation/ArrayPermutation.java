@@ -22,6 +22,6 @@ public class ArrayPermutation {
         }
     }
     public static void main(String[] args){
-        permutingArray(java.util.Arrays.asList(1,2,3), 0);
+        permutingArray(java.util.Arrays.asList(1,2,3,4,5), 0);
     }
 }

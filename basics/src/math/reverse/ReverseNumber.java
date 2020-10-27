@@ -14,7 +14,7 @@ public class ReverseNumber {
 
     public static Long reverse(Long num) {
 
-        Long reverseNum = 0L;
+        long reverseNum = 0L;
 
         while (num > 0) {
             reverseNum = reverseNum * 10 + num % 10;

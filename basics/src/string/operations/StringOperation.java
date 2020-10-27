@@ -9,6 +9,7 @@ public class StringOperation {
 
     public static void main(String[] args) {
         String string = "akashdhar";
+        System.out.println(string.substring(0)); // skashdhar
         System.out.println(string.substring(1)); // kashdhar
         System.out.println(string.substring(0, 2)); // ak
         System.out.println(string.toCharArray()); // akashdhar
