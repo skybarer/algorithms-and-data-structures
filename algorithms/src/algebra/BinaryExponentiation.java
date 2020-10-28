@@ -30,7 +30,7 @@ public class BinaryExponentiation {
     }
 
     public static void main(String[] args) {
-        System.out.println(powerMod(2, 1000, (10^9+7)));
+        System.out.println(powerMod(2, 1000, ( ((long)1e9) + 7)));
         System.out.println(powerIterative(2, 8));
         System.out.println(powerRecursive(2, 9));
         System.out.println(powerRecursive(2, 10));
