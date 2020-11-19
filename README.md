@@ -28,10 +28,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
  
  * [**geeksforgeeks**](https://www.geeksforgeeks.org/)
  * [**howtodoinjava**](https://howtodoinjava.com/)
- * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)| good .
- * [**Algorithm Wiki**](https://thimbleby.gitlab.io/algorithm-wiki-site/) |good .
- * [**lavivienpost**](https://www.lavivienpost.com/top-interview-questions-and-big-o-notation-cheat-sheets/) | 
-    interview questions .
+ * [**Algorithms, 4th Edition**](https://algs4.cs.princeton.edu/home/)
+ * [**Algorithm Wiki**](https://thimbleby.gitlab.io/algorithm-wiki-site/)
+ * [**lavivienpost**](https://www.lavivienpost.com/top-interview-questions-and-big-o-notation-cheat-sheets/)
  * [**wikipedia**](https://en.wikipedia.org/wiki/List_of_data_structures)
  * [**sinon**](https://sinon.org/algorithms//#data-structures)
  * [**bigocheatsheet**](http://bigocheatsheet.com/) |  time-complexity visualization. 
@@ -56,6 +55,9 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
  * [**JavaBook**](https://goalkicker.com/JavaBook/)
  * [**GitBook**](https://goalkicker.com/GitBook/)
+ * [**AlgorithmsBook**](https://goalkicker.com/AlgorithmsBook/)
+ * [**Competitive Programmer’s Handbook**](https://cses.fi/book/book.pdf)
+ * [**The Hitchhiker’s Guide to the Programming Contests**](https://comscigate.com/Books/contests/icpc.pdf)
  * [**Cracking the Coding Interview**](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850)
  
 
@@ -71,6 +73,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
  
 ## Interview Tips
  * [**codespaghetti**](http://www.codespaghetti.com/interview-success/)
+ * [**How to Learn Constantly(Without Burning Out)**](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/)
 
 ## Algorithms
 
