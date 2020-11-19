@@ -8,7 +8,7 @@ public class Factors {
         for (long i = 1; i * i < n; i++) {
             if (n % i == 0) {
                 list.add(i);
-                list.add(n / i);
+                if(n != i) list.add(n / i);
             }
         }
         return list;
@@ -18,5 +18,9 @@ public class Factors {
         List<Long> f = factors(24);
         Collections.sort(f);
         System.out.println(f);
+
+        List<Long> f1 = factors(12);
+        Collections.sort(f1);
+        System.out.println(f1);
     }
 }

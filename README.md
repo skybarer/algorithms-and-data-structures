@@ -43,6 +43,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
  * [**stonybrook**](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)  
  * [**techiedelight**](https://www.techiedelight.com/)  
  * [**cslibrary.stanford.edu**](http://cslibrary.stanford.edu/)  
+ * [**CP-AlgorithmsPage Authors**](https://cp-algorithms.com/)  
 
 ## Git Channels
  * [**phishman3579**](https://github.com/phishman3579/java-algorithms-implementation)  
