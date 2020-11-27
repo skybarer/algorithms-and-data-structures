@@ -178,14 +178,15 @@ out there who is preparing for the `big tech companies`, this repository may pro
  
  |Item| Subject | 
  |-|-|
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Vedic Math for faster numerical computation
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Vedic Math 
  |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Number Theory
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| algebra
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| trigonometry
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| calculus
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| graph theory
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| probability and statics
- |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| geometry
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Algebra
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Trigonometry
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Calculus
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Graph Theory
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Game Theory
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Probability and Statistic's
+ |&nbsp;&nbsp;<img width="20" height="20" src="https://raw.githubusercontent.com/skybarer/algorithams-and-data-structures/master/assets/tick.svg?sanitize=true">| Geometry
   
   i know that these things can't be developed quickly, so i try to improve gradually, but at least i can scratch the 
   basics for my next interview.
