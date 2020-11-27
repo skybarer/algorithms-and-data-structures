@@ -115,7 +115,7 @@ out there who is preparing for the `big tech companies`, this repository may pro
 |34|Segment Tree|
 |35|Prefix Tree|
 |36|Suffix Tree|
-|37|Master thereom|
+|37|Master theorem|
 |38|Jarvis-March|
 
 
