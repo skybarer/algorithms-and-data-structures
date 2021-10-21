@@ -8,7 +8,7 @@ package string.permutaiton;
 public class StringPermutation {
 
     public static void main(String[] args) {
-            String str = "ABCD";
+        String str = "ABCD";
         int n = str.length();
         StringPermutation permutation = new StringPermutation();
         permutation.permute(str, 0, n - 1);
