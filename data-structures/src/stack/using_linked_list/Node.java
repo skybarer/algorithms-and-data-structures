@@ -8,4 +8,8 @@ package stack.using_linked_list;
 public class Node {
     int data;
     Node link;
+
+    public Node() {
+        this.link = null;
+    }
 }

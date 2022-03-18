@@ -61,7 +61,7 @@ public class Stack {
     public void display() {
         // check for stack underflow
         if (top == null) {
-            System.out.printf("\nStack Underflow");
+            System.out.print("\nStack Underflow");
             System.exit(1);
         } else {
             Node temp = top;

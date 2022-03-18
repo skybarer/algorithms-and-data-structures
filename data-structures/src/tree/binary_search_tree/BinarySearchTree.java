@@ -60,7 +60,7 @@ public class BinarySearchTree {
     public void inOrder() {
         System.out.print("InOrder   : ");
         recursiveInOrderTraversal(root);
-        System.out.printf("\n");
+        System.out.print("\n");
     }
 
     // helper function for traversal
@@ -76,12 +76,12 @@ public class BinarySearchTree {
     public void postOrder() {
         System.out.print("PostOrder : ");
         recursivePostOrderTraversal(root);
-        System.out.printf("\n");
+        System.out.print("\n");
     }
 
     public void fromArrayBST(int[] bstArray) {
-        for (int i = 0; i < bstArray.length; i++) {
-            root = recursiveInsert(root, bstArray[i]);
+        for (int j : bstArray) {
+            root = recursiveInsert(root, j);
         }
     }
 
@@ -91,7 +91,7 @@ public class BinarySearchTree {
         while (current != null) {
             if (data == current.data) return true;
             if (data < current.data) current = current.lChild;
-            else if (data > current.data) current = current.rChild;
+            else current = current.rChild;
         }
         return false;
     }

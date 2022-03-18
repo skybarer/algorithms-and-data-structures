@@ -6,4 +6,6 @@ package queue.using_linked_list;
  * @time : 11:59 PM
  */
 public class Queue {
+
+    // FIFO data structure
 }
